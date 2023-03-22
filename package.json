@@ -1,5 +1,6 @@
 {
   "name": "address-book",
+  "homepage": "https://jmirez2022.github.io/AddressBook/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
