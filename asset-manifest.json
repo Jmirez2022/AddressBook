@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AddressBook/static/css/main.83099efb.css",
+    "main.js": "/AddressBook/static/js/main.4cd28c9d.js",
+    "static/js/787.6721cdb3.chunk.js": "/AddressBook/static/js/787.6721cdb3.chunk.js",
+    "index.html": "/AddressBook/index.html",
+    "main.83099efb.css.map": "/AddressBook/static/css/main.83099efb.css.map",
+    "main.4cd28c9d.js.map": "/AddressBook/static/js/main.4cd28c9d.js.map",
+    "787.6721cdb3.chunk.js.map": "/AddressBook/static/js/787.6721cdb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83099efb.css",
+    "static/js/main.4cd28c9d.js"
+  ]
+}
