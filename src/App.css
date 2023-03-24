@@ -16,13 +16,13 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(45deg, #c1997f, #cf9448);
+  background: linear-gradient(45deg, #f21212, #34ebd3);
   background-attachment: fixed;
 }
 
 .container {
   position: relative;
-  width: 1150px;
+  width: 1400px;
   padding: 20px;
   display: flex;
   justify-content: center;
@@ -32,19 +32,19 @@ body {
 
 .container .card {
   position: relative;
-  width: 400px;
+  width: 700px;
   height: 420px;
-  background: #fff;
+  background: #ffffff;
   margin: 20px;
   border-radius: 20px;
-  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 20px 30px rgba(245, 245, 245, 0.2);
 }
 
 .container .card .img {
   position: relative;
   width: 100%;
   height: 100%;
-  background: #ffaf00;
+  background: #ff0000;
   clip-path: circle(200px at center 0);
   text-align: center;
 }
@@ -61,7 +61,7 @@ img {
   text-align: center;
 }
 .container .card .content h5 {
-  color: #666;
+  color: #ff0000;
   margin: 10;
 }
 .container .card .content p {
@@ -85,13 +85,13 @@ li {
 .container .card .content button {
   position: absolute;
   padding: 10px;
-  background: #ff9102;
-  color: #fff;
-  border-radius: 40px;
+  background: #ff0000;
+  color: #ffffff;
+  border-radius: 50px;
   border: none;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
   margin: 0;
-  bottom: 5px;
+  bottom: 10px;
   transform: translateY(-50%);
 }
 
